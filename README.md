@@ -29,7 +29,7 @@
 - MySQL
 
 ### Learning Journey
-[https://github.com/jobin-codings/devsecops-journey]
+https://github.com/jobin-codings/devsecops-journey
 
 ### Goals
 - Become DevSecOps Engineer
